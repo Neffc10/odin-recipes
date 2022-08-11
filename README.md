@@ -1,2 +1,2 @@
 # odin-recipes
-Idk something Odin's making me do 
+Create a simple html with links to recipes
